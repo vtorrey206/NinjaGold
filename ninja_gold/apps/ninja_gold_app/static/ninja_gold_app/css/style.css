@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.wrapper{
+    width: 970px;
+    height: 1000px;
+    background-image: linear-gradient(#111818,#B0964A,#E1BD3D,#F9AB20,#F9AB20,#FFEC61);
+    margin: auto; 
+    vertical-align: top;
+}
+.g{
+    padding-top: 100px;
+    margin-left: 100px;
+}
+.header{
+    height: 20px;
+    width: 100px;
+    background-color: white;
+    color: black;
+    display: table-caption;
+    margin-left: 100px;
+    border: 10px double black;
+}
+.box{
+    width: 22%;
+    height: 150px;
+    border: 10px double black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 200px;
+    padding: 3px;
+    
+}
+.act{
+    margin-left: 100px;
+}
+.button{
+    background-image: linear-gradient(to right,#B0964A,#E1BD3D);
+    border: 3px solid black;
+    box-shadow: 2px 1px black;
+    margin-top: 50px;
+    height: 30px;
+    width: 70px;
+    
+}
+.mygold{
+    margin-top: 100px;
+}
+.TextArea{
+    margin-left: 60px;
+}
+.goldmine{
+    height: 300px;
+    width: auto;
+    background-color: black;
+    color: white;
+    border: 10px double #B0964A;
+}
